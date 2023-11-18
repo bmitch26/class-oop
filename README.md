@@ -1,1 +1,2 @@
-# class-oop
+# Class - OOP
+The purpose of this program is to demonstrate an understanding and proficiency of classes and OOP concepts by creating a class with private variables and associated public accessor and mutator functions. We set initial values using a constructor, then define an object of the class to overwrite the values(set functions) and access them(get functions). We then use get functions in int main() to print the values to the console.
